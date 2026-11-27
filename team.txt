@@ -1,3 +1,9 @@
 project: oss-hw2-1066
 owner: kimseonmi
+<<<<<<< HEADproject: oss-hw2-1066
+owner: kimseonmi
+status: merged-1066 by kimseonmi
 status: main-kimseonmi
+=======
+status: feature-1066
+>>>>>>> feature/1066
